@@ -10,6 +10,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   int selected;
+  var subscription;
   PageController _pageController;
   getTypeOfConnection() async {
     final connectivityResult = await (Connectivity().checkConnectivity());
@@ -31,8 +32,6 @@ class _HomePageState extends State<HomePage> {
       _pageController.jumpToPage(0);
     }
   }
-
-  var subscription;
 
   @override
   void initState() {
