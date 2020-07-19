@@ -9,7 +9,7 @@ Primero declare una variable selected de tipo int, para guardar que tipo de cone
 2. Wifi
 
 ![no](https://github.com/elalo4171/flutter-conexion/blob/master/images/Screenshot_20200719-181542.jpg)
-![wifi]([image.png](https://github.com/elalo4171/flutter-conexion/blob/master/images/Screenshot_20200719-181555.jpg))
+![wifi](https://github.com/elalo4171/flutter-conexion/blob/master/images/Screenshot_20200719-181555.jpg)
 ![mobile](https://github.com/elalo4171/flutter-conexion/blob/master/images/Screenshot_20200719-181602.jpg)
 
 El paquete connectivity nos da la posibilidad de obtener un stream en el cual se escucha el tipo de conexion, lo cual nos permite saber cuando cambia la conexion cambia:
