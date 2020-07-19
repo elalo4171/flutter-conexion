@@ -8,6 +8,8 @@ Primero declare una variable selected de tipo int, para guardar que tipo de cone
 1. Red movil
 2. Wifi
 
+
+
 El paquete connectivity nos da la posibilidad de obtener un stream en el cual se escucha el tipo de conexion, lo cual nos permite saber cuando cambia la conexion cambia:
 
 ```
