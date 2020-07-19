@@ -3,6 +3,7 @@
 Estare usando el paquete connectivity con la version 0.4.9 para saber que tipo de conexion tiene el dispositivo.
 
 Primero declare una variable selected de tipo int, para guardar que tipo de conexion existe donde:
+
 0. No existe conexion
 1. Red movil
 2. Wifi
